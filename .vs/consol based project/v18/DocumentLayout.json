@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\consol based project\\consol based project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{663EAE0E-FDDB-4246-8CEF-7BA1052CD9B6}|consol based project.vcxproj|C:\\Users\\Lenovo\\Downloads\\consol based project\\consol based project\\consol based project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{663EAE0E-FDDB-4246-8CEF-7BA1052CD9B6}|consol based project.vcxproj|solutionrelative:consol based project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "consol based project.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\consol based project\\consol based project\\consol based project.cpp",
+              "RelativeDocumentMoniker": "consol based project.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\consol based project\\consol based project\\consol based project.cpp",
+              "RelativeToolTip": "consol based project.cpp",
+              "ViewState": "AgIAAJsHAAAAAAAAAAAQwKwHAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-08T20:11:03.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
