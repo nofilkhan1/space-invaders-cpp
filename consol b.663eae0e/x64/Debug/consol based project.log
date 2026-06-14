@@ -1,4 +1,6 @@
 ﻿  consol based project.cpp
-C:\SEMESTER 2 project\consol based project (2)\consol based project\consol based project\consol based project.cpp(1559,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\SEMESTER 2 project\consol based project (2)\consol based project\consol based project\consol based project.cpp(1560,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  consol based project.vcxproj -> C:\SEMESTER 2 project\consol based project (2)\consol based project\consol based project\x64\Debug\consol based project.exe
+C:\SEMESTER 2 project\consol based project (2)\consol based project\consol based project\consol based project\consol based project.cpp(1786,85): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\SEMESTER 2 project\consol based project (2)\consol based project\consol based project\consol based project\consol based project.cpp(1786,124): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\SEMESTER 2 project\consol based project (2)\consol based project\consol based project\consol based project\consol based project.cpp(2247,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\SEMESTER 2 project\consol based project (2)\consol based project\consol based project\consol based project\consol based project.cpp(2248,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  consol based project.vcxproj -> C:\SEMESTER 2 project\consol based project (2)\consol based project\consol based project\consol based project\x64\Debug\consol based project.exe
