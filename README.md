@@ -1,8 +1,7 @@
 # space-invaders-cpp
 Space Invaders game built in C++ using SFML and OOP
 **An Object-Oriented Programming Semester Project**
-> Department of Computer Science · FAST-NU Lahore · Spring 2026
-> Section BCS 2D · Instructor: Usama Hassan · TA: Abdul Moiz Khan
+
 
 ---
 
@@ -865,9 +864,5 @@ This project is licensed under the **MIT License** — see `LICENSE` for details
 ---
 
 <div align="center">
-
-Made with ❤️ and `new`/`delete` by BCS 2D — FAST-NU Lahore · Spring 2026
-
-*"The vtable will set you free."*
 
 </div>
