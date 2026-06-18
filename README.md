@@ -57,7 +57,7 @@ Memory Model      : Raw pointers, new / delete  (no STL containers)
 │                        ↑↑  [PLAYER]  ↑↑                            │
 │ ══════════════════════[ DASH COOLDOWN ██████░░░ ]════════════════  │
 └─────────────────────────────────────────────────────────────────────┘
-         (Place an actual in-game screenshot here as screenshot.png)
+        
 ```
 
 ---
